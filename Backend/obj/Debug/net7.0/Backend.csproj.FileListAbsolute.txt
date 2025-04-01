@@ -146,3 +146,4 @@ C:\Users\GIGABYTE\Desktop\FE\project1\Backend\obj\Debug\net7.0\refint\Backend.dl
 C:\Users\GIGABYTE\Desktop\FE\project1\Backend\obj\Debug\net7.0\Backend.pdb
 C:\Users\GIGABYTE\Desktop\FE\project1\Backend\obj\Debug\net7.0\Backend.genruntimeconfig.cache
 C:\Users\GIGABYTE\Desktop\FE\project1\Backend\obj\Debug\net7.0\ref\Backend.dll
+C:\Users\GIGABYTE\Desktop\FE\project1\Backend\obj\Debug\net7.0\Backend.sourcelink.json
